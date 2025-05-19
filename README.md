@@ -26,3 +26,16 @@ The whole goal of _Proxima Network_ is to let you give other people access to yo
 - **Tunneling Tool**: Tunneling Tool is the tool which exposes the nodes to the internet and lets them be seen by the super node. 
 
 ## Phases
+
+- [ ] Building and testing the tunneling tool. 
+    - [ ] Exposing a simple web server to the internet
+    - [ ] Exposing Ollama's OpenAI compatible endpoint to the internet using the tool. 
+- [ ] Building the infrastructure for the tunneling tool. 
+    - [ ] Configuring a subdomain on nginx for being _multi tenant_ when tunneling occurs.
+- [ ] Building the python API 
+    - [ ] Registering a Node to the super node's database 
+    - [ ] Letting the node be tunneled for future use. 
+- [ ] Building the super node 
+- [ ] Reward Procedure
+
+## Overview of the network
