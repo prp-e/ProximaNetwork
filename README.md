@@ -40,3 +40,9 @@ The whole goal of _Proxima Network_ is to let you give other people access to yo
 - [ ] Reward Procedure
 
 ## Overview of the network
+
+The basics of _Proxima Network_ has been pictured as following: 
+
+<p align="center">
+    <img src="basic_diagram.jpg" />
+</p>
