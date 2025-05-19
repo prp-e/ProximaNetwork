@@ -8,6 +8,9 @@ The whole goal of _Proxima Network_ is to let you give other people access to yo
 
 ## Table of Contents
 
+- [Disclaimers](#disclaimers)
+- [Definitions](#definitions)
+
 ## Disclaimers
 
 - At current state, Proxima Network _is not_ decentralized _nor_ a blockchain of its own. Consider this. According to a poll I did on various communities, most of people voted for _Semi Decentralized_ system. So we call it a _Semi Decentralized_ network for now. 
