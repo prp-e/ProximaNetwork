@@ -6,6 +6,8 @@ So since I had a huge interest in _Web 3_ and _Bitcoin_ as well, I took a page f
 
 The whole goal of _Proxima Network_ is to let you give other people access to your resources and get rewarded by the network. This repository will be a monorepo for both _Tunneling Tool_ and _Resource Sharing Scripts_. The super node will be closed source until we find a good way to have multiple of them and then it'll become open as well. 
 
+## Table of Contents
+
 ## Disclaimers
 
 - At current state, Proxima Network _is not_ decentralized _nor_ a blockchain of its own. Consider this. According to a poll I did on various communities, most of people voted for _Semi Decentralized_ system. So we call it a _Semi Decentralized_ network for now. 
