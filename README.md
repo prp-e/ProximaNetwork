@@ -13,3 +13,5 @@ The whole goal of _Proxima Network_ is to let you give other people access to yo
 - This is the only repository for _Proxima Network_. No github organization is made. There is also no public Telegram channel or group yet.
 - Every phase of the project will be described in this `README.md` file and there will be a _status_ flag for each phase as well. So this may make you feel a little better every time visiting this repo 😁
 - Finally, although a token (as rewards of nodes/users) may be considered, but we're not offering any coins or tokens _for presales_ or _trading_. Personal preference is actually collecting donations first then using that money to back the token. 
+
+## Definitions
