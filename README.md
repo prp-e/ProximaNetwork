@@ -11,6 +11,7 @@ The whole goal of _Proxima Network_ is to let you give other people access to yo
 - [Disclaimers](#disclaimers)
 - [Definitions](#definitions)
 - [Phases](#phases)
+- [Overview](#overview-of-the-network)
 
 ## Disclaimers
 
