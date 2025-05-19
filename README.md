@@ -1,1 +1,3 @@
 # Proxima Network : A network of connected AI computers
+
+Since the year 2020, when I got into the whole world of Generative AI, I had one big struggle. Finding a good, reliable and affordable infrastructure. In the process of making [Mann-E](https://mann-e.com) I could find tons of web service/cloud providers which were good and reliable but not really affordable and this is not really a surprising fact at all. GPU's are god damn expensive. Since models were open source and built by me, using API's wasn't an option unless someone hosts the models somewhere and give me access to the API.
