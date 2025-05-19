@@ -46,3 +46,9 @@ The basics of _Proxima Network_ has been pictured as following:
 <p align="center">
     <img src="basic_diagram.jpg" />
 </p>
+
+In this diagram, you can see that the users are sending a request to an OpenAI compatible endpoint which is located on the super node. Super node has the duty to collect information about models from the different nodes (and also I personally foresaw the feature were people can decide which models on their system will be exposed to the general public) and also has the duty to call different nodes on requests. 
+
+Each node on that particular diagram is also called _Computer with Ollama Installed_ which is the first phase of AI tools being added to the network. These computers have strong enough resources for the models they exposed (The _Python API_ will have a JSON configuration format which lets you determine which models on your computer should go to the network). For example in order to run `aya-expanse:8b` on Ollama, I personally use a single 2050 and it works very well so this will be the model I will make public. So there will be a guide on models and how much hardware they consume. 
+
+Lastly we have _users_. Users are people who are using Proxima Network in many different ways. The OpenAI compatible endpoint will let them have access to a big repository of models every time they want and it'll make AI more fun. 
