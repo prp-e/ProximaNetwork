@@ -15,3 +15,7 @@ The whole goal of _Proxima Network_ is to let you give other people access to yo
 - Finally, although a token (as rewards of nodes/users) may be considered, but we're not offering any coins or tokens _for presales_ or _trading_. Personal preference is actually collecting donations first then using that money to back the token. 
 
 ## Definitions
+
+- **Super Node**: A Super Node is a computer/server running the main API which connects multiple _Nodes_ together. 
+- **Node**: A Node is a computer which runs AI tools (as of now only _Ollama_) and can be accessed via a supernode. 
+- **Tunneling Tool**: Tunneling Tool is the tool which exposes the nodes to the internet and lets them be seen by the super node. 
