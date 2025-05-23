@@ -29,9 +29,9 @@ The whole goal of _Proxima Network_ is to let you give other people access to yo
 
 ## Phases
 
-- [ ] Building and testing the tunneling tool. 
-    - [ ] Exposing a simple web server to the internet
-    - [ ] Exposing Ollama's OpenAI compatible endpoint to the internet using the tool. 
+- [x] Building and testing the tunneling tool. 
+    - [x] Exposing a simple web server to the internet
+    - [x] Exposing Ollama's OpenAI compatible endpoint to the internet using the tool. 
 - [ ] Building the infrastructure for the tunneling tool. 
     - [ ] Configuring a subdomain on nginx for being _multi tenant_ when tunneling occurs.
 - [ ] Building the python API 
