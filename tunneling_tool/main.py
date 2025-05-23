@@ -22,6 +22,6 @@ if __name__ == "__main__":
         headers={"content-type" : "application/json"}
     )
 
-    print(f"Your node is up at https://{user_data[1]}.tunnel.proximagemini.com")
+    print(f"Your node is up at https://{user_data[0]}.tunnel.proximagemini.com")
 
     os.system(f"ssh -R {user_data[1]}:localhost:11434 debian@tunnel.proximagemini.com")
