@@ -18,7 +18,7 @@ if __name__ == "__main__":
 
     res = requests.post(
         "https://nodemaker.proximagemini.com/node",
-        json = {"computer_name" : user_data[0], "port" : user_data[1]},
+        json = {"computer_name" : str(user_data[0]), "port" : user_data[1]},
         headers={"content-type" : "application/json"}
     )
 
